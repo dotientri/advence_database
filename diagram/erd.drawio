@@ -1,0 +1,59 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Trang-1" id="zmHTW1yxH4k23-ZB5gBr">
+    <mxGraphModel dx="690" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pl71lvvKr_yygqe4Qg12-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;horizontal=1;" value="Chuc_Nang_He_Thong" vertex="1">
+          <mxGeometry height="484" width="280" x="253" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;horizontal=1;" value="Vai_Tro" vertex="1">
+          <mxGeometry height="450" width="183" x="20" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;verticalAlign=middle;horizontal=1;" value="Ke Toan Cong No" vertex="1">
+          <mxGeometry height="133" width="133" x="45" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-4" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;horizontal=1;" value="Quan ly Khach hang" vertex="1">
+          <mxGeometry height="54" width="171" x="308" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-5" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;horizontal=1;" value="Lap Hoa don - Trigger tu dong tang no" vertex="1">
+          <mxGeometry height="78" width="230" x="278" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-6" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;horizontal=1;" value="Lap Phieu thu - Procedure giam no" vertex="1">
+          <mxGeometry height="78" width="230" x="278" y="287" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-7" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;horizontal=1;" value="Xem Bao cao Tuoi no - View" vertex="1">
+          <mxGeometry height="54" width="227" x="280" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-8" edge="1" parent="1" source="pl71lvvKr_yygqe4Qg12-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0;entryY=0.5;rounded=0;verticalAlign=middle;horizontal=1;" target="pl71lvvKr_yygqe4Qg12-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-9" edge="1" parent="1" source="pl71lvvKr_yygqe4Qg12-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=0;entryY=0.5;rounded=0;verticalAlign=middle;horizontal=1;" target="pl71lvvKr_yygqe4Qg12-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-10" edge="1" parent="1" source="pl71lvvKr_yygqe4Qg12-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0;entryY=0.5;rounded=0;verticalAlign=middle;horizontal=1;" target="pl71lvvKr_yygqe4Qg12-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl71lvvKr_yygqe4Qg12-11" edge="1" parent="1" source="pl71lvvKr_yygqe4Qg12-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0;entryY=0.5;rounded=0;verticalAlign=middle;horizontal=1;" target="pl71lvvKr_yygqe4Qg12-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

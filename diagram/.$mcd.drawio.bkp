@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Trang-1" id="7XrFBEyq2wUH68chwQMO">
+    <mxGraphModel dx="812" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-1" parent="1" style="shape=table;startSize=84;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" value="KHACH_HANG" vertex="1">
+          <mxGeometry height="84" width="138" x="95" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-2" parent="1" style="shape=table;startSize=84;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" value="HOA_DON" vertex="1">
+          <mxGeometry height="84" width="110" x="360" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-3" parent="1" style="shape=table;startSize=84;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" value="PHIEU_THU" vertex="1">
+          <mxGeometry height="84" width="121" x="157" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-4" parent="1" style="shape=table;startSize=84;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" value="CONG_NO" vertex="1">
+          <mxGeometry height="84" width="111" x="162" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-5" edge="1" parent="1" source="sZwSaWpkkDABQX6CF0Lv-1" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1.01;exitY=0.8;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="sZwSaWpkkDABQX6CF0Lv-2" value="co">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-6" edge="1" parent="1" source="sZwSaWpkkDABQX6CF0Lv-1" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.03;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="sZwSaWpkkDABQX6CF0Lv-3" value="lap">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-7" edge="1" parent="1" source="sZwSaWpkkDABQX6CF0Lv-1" style="startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="sZwSaWpkkDABQX6CF0Lv-4" value="theo doi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZwSaWpkkDABQX6CF0Lv-8" edge="1" parent="1" source="sZwSaWpkkDABQX6CF0Lv-2" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=1;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="sZwSaWpkkDABQX6CF0Lv-3" value="duoc thanh toan">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
